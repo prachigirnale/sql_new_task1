@@ -1,0 +1,7 @@
+customerid,primaryaccountid,mostrecenttransactionid,firstname,lastname,dateofbirth,email,phonenumber,address
+1,4,113,priti,varma,15-05-1989,priti.varma@example.com,123-456-7890,123 Main St
+3,5,114,krishna,rao,09-08-1990,krishnarao@example.com,223-455-9807,"96,nagar road east"
+2,1,111,ramesh,rajan,12-09-1982,ramesh.rajan23@example.com,212-223-334,ravinagar
+4,2,112,ram,kumar,03-08-1992,ramkumar@example.com,333-555-666,krishnanagar
+5,3,115,sharda,devi,01-09-1979,shardadevi@example.com,444-888-999,premnagar
+6,2,112,Jane,Smith,20-07-1990,jane.smith@example.com,098-765-4321,456 Oak Ave
